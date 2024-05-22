@@ -73,7 +73,7 @@ python-json-logger==0.1.9
     # via -r requirements.in
 pytz==2018.9
     # via google-api-core
-requests==2.21.0
+requests==2.32.0
     # via
     #   google-api-core
     #   google-cloud-profiler
